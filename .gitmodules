@@ -1,0 +1,9 @@
+[submodule "components/PubSubClient"]
+	path = components/PubSubClient
+	url = https://github.com/knolleary/pubsubclient.git
+[submodule "components/DHT"]
+	path = components/DHT
+	url = https://github.com/adafruit/DHT-sensor-library.git
+[submodule "components/Adafruit_Sensor"]
+	path = components/Adafruit_Sensor
+	url = https://github.com/adafruit/Adafruit_Sensor.git
