@@ -1,0 +1,8 @@
+components/
+managed_components/
+build/
+*.bin
+*.elf
+*.map
+sdkconfig.old
+.vscode/
